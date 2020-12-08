@@ -275,7 +275,7 @@ input[placeholder-shown] {
 
 i.right {
     float: right;
-    margin-left: 180px;
+    margin-left: 270px;
 }
 
 .white-text {
@@ -291,9 +291,12 @@ i.right {
         margin-top: -800px;
         width: 500px;
         height: 400px;
+        border-bottom-right-radius:20% ;
+        border-bottom-left-radius:20% ;
+
     }
     .phone{
-        width: 290px;
+        width: 320px;
         margin-left: -20px;
     }
     .phone-alone{
@@ -313,8 +316,14 @@ i.right {
         padding-top: 80px;
         padding-left: 0;
     }
+    .simple-booking{
+        padding: 0 70px;
+    }
   
     .main2{
         margin-left:0 ;
+    }
+    i.right{
+        margin-left: 220px;
     }
 }
