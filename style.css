@@ -10,9 +10,9 @@ body{
 }
 
 .purple-bg {
-    margin-top: -50px;
+    margin-top: -100px;
     width: 450px;
-    height: 600px;
+    height: 500px;
     border-bottom-left-radius: 100%;
     border-bottom-right-radius: 100%;
     margin-left: -90px;
@@ -21,7 +21,7 @@ body{
 }
 
 .phone {
-    width: 350px;
+    width: 360px;
     height: auto;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
@@ -30,7 +30,7 @@ body{
     background-color: hsl(270, 20%, 96%);
     border: 10px solid hsl(0, 0%, 100%);
     padding: 0 10px;
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: -120px;
 }
 
@@ -140,7 +140,9 @@ body{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-right: 10px !important;
+    margin-top:-10px !important ;
 }
+
 
 .chat3 p {
     color: hsl(0, 0%, 18%);
@@ -291,7 +293,7 @@ i.right {
         height: 400px;
     }
     .phone{
-
+        width: 290px;
         margin-left: -20px;
     }
     .phone-alone{
@@ -312,9 +314,6 @@ i.right {
         padding-left: 0;
     }
   
-    .phone{
-        width: 270px;
-    }
     .main2{
         margin-left:0 ;
     }
