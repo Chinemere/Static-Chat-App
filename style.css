@@ -54,7 +54,7 @@ body{
 
 }
 .simple-booking{
-    margin-left: -100px;
+    margin-left: -70px;
 }
 .stay-in-touch {
     padding-left: 150px;
@@ -214,8 +214,8 @@ input[type=text] {
     width: 100%;
     font-size: 1rem;
     margin: 0 0 15px 0;
-    padding: 0px;
-    font-size: 10px;
+    padding: 0;
+    font-size: 13px;
 }
 
 input[placeholder-shown] {
@@ -282,7 +282,7 @@ i.right {
     color: #FFFFFF !important;
 }
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 425px){
     .container {
         display: grid;
         grid-template-columns: auto;
@@ -307,7 +307,7 @@ i.right {
         padding-top: 5px;
         color: hsl(206, 6%, 79%);
         text-align: center;
-        padding:0  10px 0 65px;
+        padding:0  10px 0 25px;
     }
     .simple-booking-heading{
         text-align: center;
