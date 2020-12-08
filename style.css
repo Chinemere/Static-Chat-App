@@ -300,14 +300,14 @@ i.right {
         margin-left: -20px;
     }
     .phone-alone{
-        padding-right: 60px;
+        padding-right: 20px;
     }
     .stay-in-touch {
         font-size: 15px;
         padding-top: 5px;
         color: hsl(206, 6%, 79%);
         text-align: center;
-        padding:0  10px;
+        padding:0  0 0 50px;
     }
     .simple-booking-heading{
         text-align: center;
@@ -316,7 +316,9 @@ i.right {
         padding-top: 80px;
         padding-left: 0;
     }
-    
+    .simple-booking{
+        padding: 0 10px;
+    }
   
     .main2{
         margin-left:0 ;
