@@ -249,7 +249,7 @@ input[placeholder-shown] {
     white-space: nowrap;
     word-wrap: normal;
     direction: ltr;
-    -webkit-font-feature-settings: 'liga';
+    /* -webkit-font-feature-settings: 'liga'; */
     -webkit-font-smoothing: antialiased;
     background-color: hsl(271, 36%, 24%);
     border-radius: 50%;
@@ -309,10 +309,12 @@ i.right {
         font-weight: 900;
         padding-top: 80px;
     }
-    .simple-booking{
-        margin-right: -100px;
-        padding: 0 200px;
-        margin-left: -350px;
+    /* .simple-booking{
+        
+
+    } */
+    .phone{
+        width: 270px;
 
     }
 }
