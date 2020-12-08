@@ -117,7 +117,7 @@ body{
 
 .chat p {
     color: hsl(264, 100%, 21%);
-    font-size: 4px;
+    font-size: 14px;
 
 }
 
@@ -297,24 +297,24 @@ i.right {
         padding-right: 60px;
     }
     .stay-in-touch {
-        /* padding-left: 20px; */
         font-size: 15px;
         padding-top: 5px;
         color: hsl(206, 6%, 79%);
-        text-align: center
+        text-align: center;
+        padding:0  10px;
     }
     .simple-booking-heading{
         text-align: center;
         font-size: 30px;
         font-weight: 900;
         padding-top: 80px;
+        padding-left: 0;
     }
-    /* .simple-booking{
-        
-
-    } */
+  
     .phone{
         width: 270px;
-
+    }
+    .main2{
+        margin-left:0 ;
     }
 }
