@@ -215,7 +215,7 @@ input[type=text] {
     font-size: 1rem;
     margin: 0 0 15px 0;
     padding: 0px;
-    font-size: 3px;
+    font-size: 10px;
 }
 
 input[placeholder-shown] {
@@ -307,7 +307,7 @@ i.right {
         padding-top: 5px;
         color: hsl(206, 6%, 79%);
         text-align: center;
-        padding:0  0 0 50px;
+        padding:0  10px 0 65px;
     }
     .simple-booking-heading{
         text-align: center;
